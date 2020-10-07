@@ -21,3 +21,17 @@
 #progress-container {
   display: none;
 }
+
+/*Footer*/
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  padding: 10px 20px;
+  background: #666;
+  color: white;
+}
+
+footer p{
+  text-align: center;
+}
